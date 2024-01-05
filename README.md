@@ -12,8 +12,5 @@
 - HTML
 - CSS
 
-#WebDevelopment #ParallaxWeb #Adventure #HTML #CSS
-
-
 https://github.com/Lokeshrawat1/Parallex-web/assets/114060111/f7e0c458-fc8a-43f3-8976-aff738da0841
 
